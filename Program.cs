@@ -1,3 +1,4 @@
+
 ﻿using EpamTest_task_.net.Tasks;
 using System;
 
@@ -12,8 +13,6 @@ namespace EpamTest_task_.net
 
             //Task Two;
             Helper.Print_Format( TaskTwo.FindStr( Helper.GetNumArray(10), Helper.ParseToInt(Console.ReadLine()) ) );
-            
-            
         }
     }
 }
