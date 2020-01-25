@@ -20,14 +20,14 @@ namespace EpamTest_task_.net
              TaskThree.findWord("123 123 123 1 2 3 3 2");*/
 
             //Task Four
-            Helper.Print_Format(TaskFour.RecursionFactorial(int.Parse(Console.ReadLine())));
+            //Helper.Print_Format(TaskFour.RecursionFactorial(int.Parse(Console.ReadLine())));
 
-            Helper.Print_Format(TaskFour.LinealFactorial(int.Parse(Console.ReadLine())));
+            //Helper.Print_Format(TaskFour.LinealFactorial(int.Parse(Console.ReadLine())));
 
-            Helper.Print_Format(TaskFour.TypeThreeFactorial(int.Parse(Console.ReadLine())));
+            //Helper.Print_Format(TaskFour.TypeThreeFactorial(int.Parse(Console.ReadLine())));
 
 
-
+            TaskFive.ChekerStr();
 
 
         }

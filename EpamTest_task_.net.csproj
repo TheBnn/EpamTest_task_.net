@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Tasks\sim2svjm.qeu~" />
+  </ItemGroup>
+
 </Project>
